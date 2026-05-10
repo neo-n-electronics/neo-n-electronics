@@ -99,7 +99,7 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 - `DIY 무선충전기` — 직접 설계한 회로·케이스 포함 완제품
 - `DIY 커스텀 PCD키링` — 동판 에칭 현장 체험 키트
 
-📝 [후기 블로그 포스트](https://blog.neo-n.org/the_end_of_mfs2025/)
+📝 [후기 블로그 포스트](https://blog.neo-n.org/the_end_of_mfs2025/)<br>
 🌐 [네오& 팀 공식 사이트](https://neon-makerfaire.vercel.app/)
 
 
