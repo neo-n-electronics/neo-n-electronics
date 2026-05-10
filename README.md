@@ -11,7 +11,6 @@
 
 **Embedded Systems Engineer · Maker · Server Operator**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneo-n&count_bg=%23222222&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
 </div>
 
