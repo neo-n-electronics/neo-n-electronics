@@ -100,6 +100,8 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 - `DIY 커스텀 PCD키링` — 동판 에칭 현장 체험 키트
 
 📝 [후기 블로그 포스트](https://blog.neo-n.org/the_end_of_mfs2025/)
+🌐 [네오& 팀 공식 사이트](https://neon-makerfaire.vercel.app/)
+
 
 ---
 
@@ -134,7 +136,7 @@ blog.neo-n.org
 
 모든 문의사항은 이메일로 받고 있습니다.
 
-📧E-Mail : blog@neo-n.org
+📧E-Mail : github@neo-n.org
 
 [![Blog](https://img.shields.io/badge/Blog-blog.neo--n.org-222222?style=flat-square&logo=ghost&logoColor=white)](https://blog.neo-n.org)
 
