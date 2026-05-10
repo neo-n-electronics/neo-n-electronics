@@ -144,18 +144,6 @@ blog.neo-n.org
 
 ---
 
-## 📊 깃허브 / GitHub Stats
-
-<div align="center">
-
-![neo-n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo-n-electronics&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=4493f8&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-n-electronics&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
-
-</div>
-
----
-
 ## 📬 연락 / Contact
 
 모든 문의사항은 이메일로 받고 있습니다.
