@@ -28,7 +28,7 @@
 
 ```
 Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →   Product
-아이디어   →   회로설계   →   PCB   →   3D 모델링   →   펌웨어   →   완성품
+아이디어   →   회로설계    →   PCB   →   3D 모델링      →   펌웨어      →   완성품
 ```
 
 ---
