@@ -27,8 +27,8 @@
 → 2025년 **메이커페어 서울 부스** 운영 경험을 포함, 다양한 임베디드 프로젝트를 직접 기획하고 제작해왔습니다.
 
 ```
-Concept → Schematic → PCB → 3D Modeling → Firmware → Product
-   아이디어 →  회로설계  → PCB → 3D 모델링  →  펌웨어  → 완성품
+Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →   Product
+아이디어   →   회로설계   →   PCB   →   3D 모델링   →   펌웨어   →   완성품
 ```
 
 ---
