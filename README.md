@@ -30,7 +30,7 @@ Concept → Schematic → PCB → 3D Modeling → Firmware → Product
 
 ---
 
-## 🔧 테크 / Embedded Platforms
+## 🔧 플랫폼 / Embedded Platforms
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Concept → Schematic → PCB → 3D Modeling → Firmware → Product
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술&지원 / Tech Stack
 
 **Firmware & Languages**
 
@@ -74,7 +74,7 @@ Concept → Schematic → PCB → 3D Modeling → Firmware → Product
 
 ---
 
-## 🏆 Featured Project — Maker Faire Seoul 2025
+## 🏆 프로젝트 / Featured Project — Maker Faire Seoul 2025
 
 > **"네오&" 팀 · M-28 부스 · 2025.09.27–28 · 서울시립과학관**
 
@@ -96,7 +96,7 @@ Concept → Schematic → PCB → 3D Modeling → Firmware → Product
 
 ---
 
-## 🖥️ Personal Server
+## 🖥️ 홈페이지 / Personal Server
 
 개인 서버를 직접 구축·운영 중입니다.
 
@@ -111,7 +111,7 @@ blog.neo-n.org
 
 ---
 
-## 📊 GitHub Stats
+## 📊 깃허브 / GitHub Stats
 
 <div align="center">
 
@@ -123,7 +123,7 @@ blog.neo-n.org
 
 ---
 
-## 📬 Contact
+## 📬 연락 / Contact
 
 [![Blog](https://img.shields.io/badge/Blog-blog.neo--n.org-222222?style=flat-square&logo=ghost&logoColor=white)](https://blog.neo-n.org)
 
