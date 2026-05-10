@@ -57,7 +57,7 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 ---
 
 
-## 🔧 플랫폼 / Embedded Platforms
+## 🔧 개발 플랫폼 / Embedded Platforms
 
 <div align="center">
 
