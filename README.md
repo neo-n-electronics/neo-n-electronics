@@ -157,6 +157,7 @@ blog.neo-n.org
 <div align="center">
 
 *"새로운(NEO) 일상을 함께(and, N) 만들다."*<br>
-잘 부탁 드립니다.
+<br>
+그럼, 잘 부탁 드립니다.
 
 </div>
