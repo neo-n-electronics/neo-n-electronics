@@ -77,9 +77,9 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 
 ---
 
-## 🏆 프로젝트 / Featured Project — Maker Faire Seoul 2025
+## 🏆 프로젝트 / Featured Project
 
-> **"네오&" 팀 · M-28 부스 · 2025.09.27–28 · 서울시립과학관**
+> **Maker Faire Seoul 2025 - "네오&" 팀 · M-28 부스 · 2025.09.27–28 · 서울시립과학관**
 
 메이커페어 서울 2025에 독립 팀으로 참가하여, 기획부터 제작·판매까지 전 과정을 직접 수행했습니다.
 
@@ -89,13 +89,17 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 | 🖨️ **3D 모델링** | SolidWorks를 활용한 케이스 설계 및 FDM 출력 |
 | 💻 **펌웨어 개발** | Arduino 기반 C/C++ 펌웨어 전체 작성 |
 | 🛒 **제품 판매** | 현장 부스 운영 및 완제품 판매 |
-| 🎤 **발표** | 메이커 스포트라이트 세션 발표 (20분) |
+| 🎤 **발표** | 메이커 스포트라이트 세션 및 프레젠테이 진행 |
 
 **주요 전시 아이템**
+- `ESP칩셋 이용한 WiFi 시계` — wifi 기능을 내장한 탁상 시계 완제품
+- `하만/카돈 유닛 활용, 거치형 블루투스 스피커` — 관람객들에게 메이킹과 DIY 문화에 대한 흥미를 전달
+- `SKY 스톤 유닛 활용, 휴대용 블루투스 스피커` —  유휴 자원을 활용, 낮은 제작비용과 고음질의 오디오 경험을 제공하는 휴대용 스피커
+- `하만/카돈 유닛 활용, 거치형 블루투스 스피커` — 관람객들에게 메이킹과 DIY 문화에 대한 흥미를 전달
 - `DIY 무선충전기` — 직접 설계한 회로·케이스 포함 완제품
-- `DIY 키링` — 동판 에칭 현장 체험 키트
+- `DIY 커스텀 PCD키링` — 동판 에칭 현장 체험 키트
 
-📝 [후기 블로그 포스트 →](https://blog.neo-n.org/the_end_of_mfs2025/)
+📝 [후기 블로그 포스트](https://blog.neo-n.org/the_end_of_mfs2025/)
 
 ---
 
@@ -118,15 +122,19 @@ blog.neo-n.org
 
 <div align="center">
 
-![neo-n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo-n&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=4493f8&text_color=c9d1d9)
+![neo-n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo-n-electronics&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=4493f8&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-n&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neo-n-electronics&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
 </div>
 
 ---
 
 ## 📬 연락 / Contact
+
+모든 문의사항은 이메일로 받고 있습니다.
+
+📧E-Mail : blog@neo-n.org
 
 [![Blog](https://img.shields.io/badge/Blog-blog.neo--n.org-222222?style=flat-square&logo=ghost&logoColor=white)](https://blog.neo-n.org)
 
