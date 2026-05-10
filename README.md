@@ -34,26 +34,26 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 ---
 
 ## 📚 전공 / major studies
-ㆍ회로이론 | Circuit Theory
-ㆍ전기자기학 | Electromagnetics
-ㆍ다지털공학 / 디지털논리회로 | Digital Engineering & digital logic circuits
-
-ㆍ전자회로 | electronic circuit
-ㆍ제어공학 | Control Engineering
-ㆍ전기기기 | electrical devices
-ㆍ전기설비 | electrical equipment
-ㆍ전력전자공학 / 전력전자 모델링 및 해석 | Power Electronics & Power Electronics Modeling and Analysis
-ㆍ전력계통 | power systems
-ㆍPLC제어 | Programmable Logic Controller (LS, MITSUBISHI, SIEMENS)
-ㆍ시퀀스제어 | Sequence control
-
-ㆍ통신이론 / 디지털무선통신시스템 | Communication Theory & Digital wireless communication system
-ㆍ공정제어시스템 | Process control system
-ㆍ마이크로프로세서 | MCU, microprocessor
-ㆍ메카트로닉스시스템 | Mechatronics systems
-ㆍ빅데이터 개론 | Introduction to Big Data
-ㆍLabview
-
+ㆍ회로이론 | Circuit Theory<br>
+ㆍ전기자기학 | Electromagnetics<br>
+ㆍ다지털공학 / 디지털논리회로 | Digital Engineering & digital logic circuits<br>
+<br>
+ㆍ전자회로 | electronic circuit<br>
+ㆍ제어공학 | Control Engineering<br>
+ㆍ전기기기 | electrical devices<br>
+ㆍ전기설비 | electrical equipment<br>
+ㆍ전력전자공학 / 전력전자 모델링 및 해석 | Power Electronics & Power Electronics Modeling and Analysis<br>
+ㆍ전력계통 | power systems<br>
+ㆍPLC제어 | Programmable Logic Controller (LS, MITSUBISHI, SIEMENS)<br>
+ㆍ시퀀스제어 | Sequence control<br>
+<br>
+ㆍ통신이론 / 디지털무선통신시스템 | Communication Theory & Digital wireless communication system<br>
+ㆍ공정제어시스템 | Process control system<br>
+ㆍ마이크로프로세서 | MCU, microprocessor<br>
+ㆍ메카트로닉스시스템 | Mechatronics systems<br>
+ㆍ빅데이터 개론 | Introduction to Big Data<br>
+ㆍLabview<br>
+<br>
 ---
 
 
