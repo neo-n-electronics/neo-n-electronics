@@ -23,7 +23,7 @@
 2020년, 경기과학기술대학교 전기공학과로 입학하여 4년간의 여정을 마친 뒤,<br>
 2025년 안양대학교 정보전기전자공학과에 편입하여 2026년 현재까지 전기공학도로서 방향을 이어가고 있는 "네오_엔" 입니다.
 
-ㆍ전기-전자회로 설계, 3D 모델링, 펌웨어 개발, 제품 판매까지 — 아이디어의 시작부터 완성까지 **모든 과정을 직접** 다룹니다.  
+ㆍ전기-전자회로 설계, 3D 모델링, 펌웨어 개발, 제품 판매까지 - 아이디어의 시작부터 완성까지 **모든 과정을 직접** 다룹니다.  
 → 2025년 **메이커페어 서울 부스** 운영 경험을 포함, 다양한 임베디드 프로젝트를 직접 기획하고 제작해왔습니다.
 
 ```
@@ -32,6 +32,30 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 ```
 
 ---
+
+## 📚 전공 / major studies
+ㆍ회로이론 | Circuit Theory
+ㆍ전기자기학 | Electromagnetics
+ㆍ다지털공학 / 디지털논리회로 | Digital Engineering & digital logic circuits
+
+ㆍ전자회로 | electronic circuit
+ㆍ제어공학 | Control Engineering
+ㆍ전기기기 | electrical devices
+ㆍ전기설비 | electrical equipment
+ㆍ전력전자공학 / 전력전자 모델링 및 해석 | Power Electronics & Power Electronics Modeling and Analysis
+ㆍ전력계통 | power systems
+ㆍPLC제어 | Programmable Logic Controller (LS, MITSUBISHI, SIEMENS)
+ㆍ시퀀스제어 | Sequence control
+
+ㆍ통신이론 / 디지털무선통신시스템 | Communication Theory & Digital wireless communication system
+ㆍ공정제어시스템 | Process control system
+ㆍ마이크로프로세서 | MCU, microprocessor
+ㆍ메카트로닉스시스템 | Mechatronics systems
+ㆍ빅데이터 개론 | Introduction to Big Data
+ㆍLabview
+
+---
+
 
 ## 🔧 플랫폼 / Embedded Platforms
 
@@ -144,6 +168,6 @@ blog.neo-n.org
 
 <div align="center">
 
-*"아이디어는 만들어질 때 비로소 완성된다."*
+*"새로운(NEO) 일상을 함께(and, N) 만들다."*
 
 </div>
