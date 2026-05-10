@@ -148,7 +148,7 @@ blog.neo-n.org
 <br>
 또한, 교육 플랫폼을 개설하여 운영하고 있습니다. <br>
 아래 링크를 참조 바랍니다.
-[![N.N.edu](https://img.shields.io/badge/Blog-blog.neo--n.org-222222?style=flat-square&logo=ghost&logoColor=white)](https://blog.naver.com/neo-n-edu)
+[![N.N.edu](https://img.shields.io/badge/N.N.edu-blog.naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/neo-n-edu)
 
 ---
 
