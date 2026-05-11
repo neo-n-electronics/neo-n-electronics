@@ -39,7 +39,7 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 ## 📚 전공 / major studies
 ㆍ회로이론 | Circuit Theory<br>
 ㆍ전기자기학 | Electromagnetics<br>
-ㆍ다지털공학 / 디지털논리회로 | Digital Engineering & digital logic circuits<br>
+ㆍ디지털공학 / 디지털논리회로 | Digital Engineering & digital logic circuits<br>
 <br>
 ㆍ전자회로 | electronic circuit<br>
 ㆍ제어공학 | Control Engineering<br>
@@ -66,7 +66,7 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 
 | Platform | Chips / Boards |
 |:--------:|:--------------|
-| **Arduino** | Due · MEGA2560 · NANO · UNO R3 · UNO R4 |
+| **Arduino** | UNO R3 · UNO R4 · Due · MEGA2560 · NANO |
 | **AVR** | ATmega128 |
 | **Espressif** | ESP32 · ESP8266 |
 | **Raspberry Pi** | RP2040 |
@@ -116,13 +116,12 @@ Concept   →   Schematic   →   PCB   →   3D Modeling   →   Firmware   →
 | 🖨️ **3D 모델링** | SolidWorks를 활용한 케이스 설계 및 FDM 출력 |
 | 💻 **펌웨어 개발** | Arduino 기반 C/C++ 펌웨어 전체 작성 |
 | 🛒 **제품 판매** | 현장 부스 운영 및 완제품 판매 |
-| 🎤 **발표** | 메이커 스포트라이트 세션 및 프레젠테이션 진행 |
+| 🎤 **세션** | 메이커 스포트라이트 세션 및 프레젠테이션 진행 |
 
 **주요 전시 아이템**
 - `ESP칩셋 이용한 WiFi 시계` — wifi 기능을 내장한 탁상 시계 완제품
 - `하만/카돈 유닛 활용, 거치형 블루투스 스피커` — 관람객들에게 메이킹과 DIY 문화에 대한 흥미를 전달
 - `SKY 스톤 유닛 활용, 휴대용 블루투스 스피커` —  유휴 자원을 활용, 낮은 제작비용과 고음질의 오디오 경험을 제공하는 휴대용 스피커
-- `하만/카돈 유닛 활용, 거치형 블루투스 스피커` — 관람객들에게 메이킹과 DIY 문화에 대한 흥미를 전달
 - `DIY 무선충전기` — 직접 설계한 회로·케이스 포함 완제품
 - `DIY 커스텀 PCD키링` — 동판 에칭 현장 체험 키트
 
@@ -148,7 +147,7 @@ blog.neo-n.org
 <br>
 또한, 교육 플랫폼을 개설하여 운영하고 있습니다. <br>
 아래 링크를 참조 바랍니다. <br>
-
+<br>
 [![N.N.edu](https://img.shields.io/badge/N.N.edu-blog.naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/neo-n-edu)
 
 ---
